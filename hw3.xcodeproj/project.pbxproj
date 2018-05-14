@@ -25,6 +25,10 @@
 /* Begin PBXFileReference section */
 		0C77D2E920A6FA2E00FCCA17 /* hw3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hw3; sourceTree = BUILT_PRODUCTS_DIR; };
 		0C77D2EC20A6FA2E00FCCA17 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		0C77D2F320A8944900FCCA17 /* Money.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Money.cpp; sourceTree = "<group>"; };
+		0C77D2F420A8944900FCCA17 /* Money.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Money.hpp; sourceTree = "<group>"; };
+		0C77D2F620A89E2800FCCA17 /* GenericArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = GenericArray.cpp; sourceTree = "<group>"; };
+		0C77D2F720A89E2800FCCA17 /* GenericArray.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = GenericArray.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,10 @@
 			isa = PBXGroup;
 			children = (
 				0C77D2EC20A6FA2E00FCCA17 /* main.cpp */,
+				0C77D2F320A8944900FCCA17 /* Money.cpp */,
+				0C77D2F420A8944900FCCA17 /* Money.hpp */,
+				0C77D2F620A89E2800FCCA17 /* GenericArray.cpp */,
+				0C77D2F720A89E2800FCCA17 /* GenericArray.hpp */,
 			);
 			path = hw3;
 			sourceTree = "<group>";
